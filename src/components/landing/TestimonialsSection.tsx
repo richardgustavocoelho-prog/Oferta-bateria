@@ -56,10 +56,10 @@ export function TestimonialsSection() {
             <div className="relative w-full max-w-xs aspect-[9/16] bg-background/50 rounded-xl overflow-hidden shadow-[0_0_30px_rgba(249,178,51,0.3)] border border-accent/50">
                 <iframe 
                   className="absolute top-0 left-0 w-full h-full"
-                  src="https://www.youtube.com/embed/Lhj8AJVkrRk" 
-                  title="YouTube video player" 
+                  src="https://player.vimeo.com/video/1143643791?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+                  title="Depoimento Aluna Leticia Freitas"
                   frameBorder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                  allow="autoplay; fullscreen; picture-in-picture; web-share" 
                   allowFullScreen
                   loading="lazy"
                 ></iframe>
