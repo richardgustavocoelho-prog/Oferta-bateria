@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState, useEffect } from 'react';
 import { Music, Instagram } from "lucide-react";
+import Image from "next/image";
 
 export function Footer() {
   const [year, setYear] = useState<number | null>(null);

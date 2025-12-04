@@ -33,7 +33,6 @@ export function HeroSection({ onCTAClick }: HeroSectionProps) {
                   className="absolute top-0 left-0 w-full h-full"
                   title="PACK 50 AULAS DE BATERIA"
                   allowFullScreen
-                  loading="lazy"
                 ></iframe>
             </div>
           </div>

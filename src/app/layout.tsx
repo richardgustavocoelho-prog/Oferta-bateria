@@ -25,7 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`dark ${poppins.variable}`}>
       <head>
-        <link rel="preconnect" href="https://www.youtube.com" />
+        <link rel="preconnect" href="https://player.vimeo.com" />
         <link rel="preconnect" href="https://i.imgur.com" />
         <link rel="preconnect" href="https://cdn.utmify.com.br" />
         <Script id="utmify-pixel" strategy="afterInteractive">
