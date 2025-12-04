@@ -27,7 +27,7 @@ export function HeroSection({ onCTAClick }: HeroSectionProps) {
           <div className="my-8 flex flex-col items-center">
             <div className="relative w-full max-w-xs aspect-[9/16] bg-background/50 rounded-xl overflow-hidden">
                 <iframe 
-                  src="https://player.vimeo.com/video/963248883?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
+                  src="https://player.vimeo.com/video/1143638883?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
                   frameBorder="0" 
                   allow="autoplay; fullscreen; picture-in-picture; clipboard-write" 
                   className="absolute top-0 left-0 w-full h-full"
