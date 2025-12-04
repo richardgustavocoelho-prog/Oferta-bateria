@@ -27,11 +27,11 @@ export function HeroSection({ onCTAClick }: HeroSectionProps) {
           <div className="my-8 flex flex-col items-center">
             <div className="relative w-full max-w-xs aspect-[9/16] bg-background/50 rounded-xl overflow-hidden">
                 <iframe 
-                  className="absolute top-0 left-0 w-full h-full"
-                  src="https://www.youtube.com/embed/wjmsbsavQlU" 
-                  title="YouTube video player" 
+                  src="https://player.vimeo.com/video/963248883?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
                   frameBorder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                  allow="autoplay; fullscreen; picture-in-picture; clipboard-write" 
+                  className="absolute top-0 left-0 w-full h-full"
+                  title="PACK 50 AULAS DE BATERIA"
                   allowFullScreen
                   loading="lazy"
                 ></iframe>

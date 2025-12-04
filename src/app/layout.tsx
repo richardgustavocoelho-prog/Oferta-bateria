@@ -45,6 +45,7 @@ export default function RootLayout({
           data-utmify-prevent-subids
           strategy="afterInteractive"
         ></Script>
+        <Script src="https://player.vimeo.com/api/player.js" strategy="afterInteractive"></Script>
       </head>
       <body className="font-body antialiased">
         <ScarcityBanner />
