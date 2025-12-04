@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "vocal-technique",
+      "description": "Ilustração mostrando as etapas da formação de um baterista, do zero ao palco.",
+      "imageUrl": "https://i.imgur.com/zd4X40S.png",
+      "imageHint": "drummer journey"
+    },
+    {
+      "id": "study-plan",
+      "description": "Ilustração de um calendário ou planner representando um plano de estudo de bateria.",
+      "imageUrl": "https://i.imgur.com/y7pCLRt.png",
+      "imageHint": "drum study plan"
+    },
+    {
+      "id": "training-tools",
+      "description": "Ilustração de um caderno de música e baquetas.",
+      "imageUrl": "https://i.imgur.com/2H3GT44.png",
+      "imageHint": "drum notebook sticks"
+    },
+    {
+      "id": "repertoire",
+      "description": "Ilustração de um baterista com fones de ouvido, representando a prática musical.",
+      "imageUrl": "https://i.imgur.com/YqowUlE.png",
+      "imageHint": "drummer practice"
+    },
+    {
+      "id": "teaching-didactics",
+      "description": "Ilustração de um professor segurando um livro de plano de aula de bateria.",
+      "imageUrl": "https://i.imgur.com/YCLlKdl.png",
+      "imageHint": "drum lesson plan"
+    },
+    {
+      "id": "testimonial-video",
+      "description": "Placeholder for a video testimonial from a teacher.",
+      "imageUrl": "https://images.unsplash.com/photo-1599576219848-222b20473611?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx2aWRlbyUyMHRlc3RpbW9uaWFsfGVufDB8fHx8MTc2MjkwNjAwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "video testimonial"
+    },
+    {
+      "id": "rudiments",
+      "description": "Ilustração de partituras de rudimentos de bateria.",
+      "imageUrl": "https://i.imgur.com/XiuQhkw.png",
+      "imageHint": "drum rudiments sheet"
+    },
+    {
+      "id": "grooves",
+      "description": "Ilustração de um kit de bateria com notas musicais simbolizando grooves.",
+      "imageUrl": "https://i.imgur.com/XO821uV.png",
+      "imageHint": "drum kit grooves"
+    }
+  ]
+}
